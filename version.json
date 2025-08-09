@@ -1,0 +1,7 @@
+{
+    "version": "1.0.1",
+    "resources": {
+        "client": "http://146.19.191.154/autoupdater/client.lua",
+        "server": "http://146.19.191.154/autoupdater/server.lua"
+    }
+}
